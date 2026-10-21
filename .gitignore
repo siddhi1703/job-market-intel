@@ -1,0 +1,12 @@
+# Data & DB
+data/*.db
+data/*.csv
+data/raw/
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+# Notebooks
+.ipynb_checkpoints/
